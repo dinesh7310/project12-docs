@@ -1,0 +1,182 @@
+.heading{
+    color:rgb(1, 21, 235);
+    font-size: 55px;
+}
+.navbar{
+    height:12vh;
+}
+.travel-logo{
+    height:80px;
+    width:80px;
+}
+.home-section{
+    color:rgb(40, 170, 206);
+    font-size: 40px;
+    background-image:url("images/effieltower.jpg.jpg");
+    background-size:cover;
+    width:auto;
+    height: 90vh;
+    padding:50px;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    font-family: "Roboto";
+}
+.packagesSection{
+    border-radius:1px;
+    padding:30px;
+    text-align: center;
+}
+.packages-head{
+    color:black;
+    font-size:50px;
+    font-family:"Roboto";
+    padding:12px;
+}
+.india-tour{
+    background-image: url("images/Indiatour.webp");
+    width:780px;
+    height:370px;
+    margin:10px;
+}
+.package-tour{
+    color:white;
+    font-size:38px;
+    font-family: "Roboto";
+    text-align: center;
+}
+.international-tour{
+    background-image: url("images/Internationaltour.webp");
+    width:360px;
+    height:370px;
+    margin:10px;
+    border-radius:10px;
+}
+.Europe-tour{
+    background-image: url("images/Europe-tour.webp");
+    width:360px;
+    height:370px;
+    margin:10px;
+    border-radius:10px;
+}
+.Educational-tour{
+    background-image: url("images/Educational-Tour.webp");
+    width:360px;
+    height:370px;
+    margin:10px;
+    border-radius:10px;
+}
+.beach-tour{
+    background-image: url("images/beach.jpeg");
+    width:360px;
+    height:370px;
+    margin:10px;
+    border-radius:10px;
+}
+.tour-image{
+    width:500px;
+    height:380px;
+}
+.package-section{
+    border-radius: 16px;
+    border-color: antiquewhite;
+    margin:auto;
+    padding:auto;
+}
+.card-1{
+    border-radius: 10px;
+    font-size:18px;
+}
+.hotel-booking{
+    background-color: rgb(210, 189, 68);
+    text-align: center;
+    margin: 10px;
+    padding:4px;
+}
+.inputValue{
+    font-size: 18px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d5cdcd;
+    border-radius: 3px;
+    padding: 10px;
+    width:300px;
+    height:60px;
+}
+.searchValue{
+    background-color:black;
+    color: white;
+    font-size:24px;
+    height:60px;
+    width:100px;
+    border-radius:1px;
+}
+.footer-section {
+    background-color: #0d2436;
+}
+  .footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+  .follow-us-section {
+    background-color: white;
+  }
+  .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
+  .flight-section{
+    background-color: darksalmon;
+    padding:28px;
+    font-weight: bold;
+  }
+  .booking-section{
+    background-color: white;
+    font-family: "Roboto";
+    padding:30px;
+  }
+  .trip-type{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+    font-size:24px;
+  }
+  .from-to-section{
+    display: flex;
+    justify-content:space-around;
+  }
+  .form-control{
+    width:300px;
+    height:40px;
+  }
+ .btn{
+    width:130px;
+    height:38px;
+ }
