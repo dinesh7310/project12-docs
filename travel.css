@@ -1,3 +1,4 @@
+@import "{{ site.theme }}";
 .heading{
     color:rgb(1, 21, 235);
     font-size: 55px;
